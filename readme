@@ -1,0 +1,22 @@
+Job Tracker project :
+
+
+- Used software and programs and stuff :
+-- Front-end             : ejs
+-- server                : node
+-- data                  : MongoDB Mongoose
+-- User authentification : Json/jwt
+-- Op                    : CRUD
+
+- "create job"
+-- Tous les champs : type: String.
+-- jobTitle : required, maxlength: 150
+-- company : required, maxlength: 150
+-- website : required, maxlength: 500
+-- contactName, maxlength: 150
+-- contactEmail, maxlength: 150
+-- phone: maxlength: 50
+-- address: maxlength: 250
+-- origin : required, maxlength: 100
+-- status : required, maxlength: 50
+-- comment: maxlength: 500
